@@ -2,6 +2,7 @@
   {
     "restaurant": "Pizza Paradise",
     "address": "123 Pizza Street, New York, NY 10001",
+    "image": "https://i.imgur.com/DIUVYRm.jpeg",
     "menu": [
       {
         "id": 1,
@@ -29,6 +30,7 @@
   {
     "restaurant": "Salad & Wings",
     "address": "456 Green Avenue, San Francisco, CA 94103",
+    "image": "https://i.imgur.com/1SLehcZ.jpeg",
     "menu": [
       {
         "id": 4,
@@ -63,6 +65,7 @@
   {
     "restaurant": "Sweet Treats",
     "address": "987 Dessert Lane, Los Angeles, CA 90001",
+    "image": "https://i.imgur.com/OhLresv.png",
     "menu": [
       {
         "id": 8,
