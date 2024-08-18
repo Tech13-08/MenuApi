@@ -1,62 +1,90 @@
 [
   {
-    "id": 1,
-    "name": "Margherita Pizza",
-    "price": 8.99,
-    "description": "Classic pizza with tomato sauce, mozzarella cheese, and fresh basil."
+    "restaurant": "Pizza Paradise",
+    "address": "123 Pizza Street, New York, NY 10001",
+    "menu": [
+      {
+        "id": 1,
+        "name": "Margherita Pizza",
+        "price": 8.99,
+        "description": "Classic pizza with tomato sauce, mozzarella cheese, and fresh basil.",
+        "image": "https://i.imgur.com/8AwiAdP.jpeg"
+      },
+      {
+        "id": 2,
+        "name": "Pepperoni Pizza",
+        "price": 9.99,
+        "description": "Pizza topped with spicy pepperoni slices and melted cheese.",
+        "image": "https://i.imgur.com/ugzgD7M.jpeg"
+      },
+      {
+        "id": 3,
+        "name": "BBQ Chicken Pizza",
+        "price": 10.99,
+        "description": "Pizza with BBQ sauce, grilled chicken, and red onions.",
+        "image": "https://i.imgur.com/pqACXk0.jpeg"
+      }
+    ]
   },
   {
-    "id": 2,
-    "name": "Pepperoni Pizza",
-    "price": 9.99,
-    "description": "Pizza topped with spicy pepperoni slices and melted cheese."
+    "restaurant": "Salad & Wings",
+    "address": "456 Green Avenue, San Francisco, CA 94103",
+    "menu": [
+      {
+        "id": 4,
+        "name": "Caesar Salad",
+        "price": 7.59,
+        "description": "Crisp romaine lettuce, croutons, and Parmesan cheese tossed in Caesar dressing.",
+        "image": "https://i.imgur.com/RAEiehc.jpeg"
+      },
+      {
+        "id": 5,
+        "name": "BBQ Chicken Wings",
+        "price": 11.99,
+        "description": "Juicy chicken wings coated in tangy BBQ sauce and served with celery sticks.",
+        "image": "https://i.imgur.com/sjqDO0h.jpeg"
+      },
+      {
+        "id": 6,
+        "name": "Buffalo Wings",
+        "price": 11.99,
+        "description": "Spicy buffalo wings served with blue cheese dressing.",
+        "image": "https://i.imgur.com/LKW9qow.jpeg"
+      },
+      {
+        "id": 7,
+        "name": "Garden Salad",
+        "price": 6.99,
+        "description": "Fresh mixed greens, cherry tomatoes, cucumbers, and red onions with a light vinaigrette.",
+        "image": "https://i.imgur.com/PjcztH6.jpeg"
+      }
+    ]
   },
   {
-    "id": 3,
-    "name": "Caesar Salad",
-    "price": 7.59,
-    "description": "Crisp romaine lettuce, croutons, and Parmesan cheese tossed in Caesar dressing."
-  },
-  {
-    "id": 4,
-    "name": "BBQ Chicken Wings",
-    "price": 11.99,
-    "description": "Juicy chicken wings coated in tangy BBQ sauce and served with celery sticks."
-  },
-  {
-    "id": 5,
-    "name": "Vegetarian Burger",
-    "price": 10.49,
-    "description": "A flavorful vegetarian patty with lettuce, tomato, and avocado on a whole wheat bun."
-  },
-  {
-    "id": 6,
-    "name": "Spaghetti Carbonara",
-    "price": 12.99,
-    "description": "Classic Italian pasta with a creamy sauce made of eggs, cheese, pancetta, and pepper."
-  },
-  {
-    "id": 7,
-    "name": "Chicken Tenders",
-    "price": 8.99,
-    "description": "Breaded and fried chicken tenders served with a side of honey mustard dipping sauce."
-  },
-  {
-    "id": 8,
-    "name": "Marinated Steak",
-    "price": 15.99,
-    "description": "Grilled steak marinated in a blend of herbs and spices, served with a side of mashed potatoes."
-  },
-  {
-    "id": 9,
-    "name": "Lemon Sorbet",
-    "price": 5.99,
-    "description": "Refreshing lemon sorbet with a tangy flavor, perfect for a light dessert."
-  },
-  {
-    "id": 10,
-    "name": "Chocolate Cake",
-    "price": 6.49,
-    "description": "Rich and moist chocolate cake topped with a smooth chocolate ganache."
+    "restaurant": "Sweet Treats",
+    "address": "987 Dessert Lane, Los Angeles, CA 90001",
+    "menu": [
+      {
+        "id": 8,
+        "name": "Lemon Sorbet",
+        "price": 5.99,
+        "description": "Refreshing lemon sorbet with a tangy flavor, perfect for a light dessert.",
+        "image": "https://i.imgur.com/CGKdQfe.jpeg"
+      },
+      {
+        "id": 9,
+        "name": "Chocolate Cake",
+        "price": 6.49,
+        "description": "Rich and moist chocolate cake topped with a smooth chocolate ganache.",
+        "image": "https://i.imgur.com/dintSDW.jpeg"
+      },
+      {
+        "id": 10,
+        "name": "Vanilla Ice Cream",
+        "price": 4.99,
+        "description": "Classic vanilla ice cream made with real vanilla beans.",
+        "image": "https://i.imgur.com/OsmWA6K.jpeg"
+      }
+    ]
   }
 ]
