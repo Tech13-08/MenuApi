@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Margherita Pizza",
+    "price": 8.99,
+    "description": "Classic pizza with tomato sauce, mozzarella cheese, and fresh basil."
+  },
+  {
+    "id": 2,
+    "name": "Pepperoni Pizza",
+    "price": 9.99,
+    "description": "Pizza topped with spicy pepperoni slices and melted cheese."
+  },
+  {
+    "id": 3,
+    "name": "Caesar Salad",
+    "price": 7.49,
+    "description": "Crisp romaine lettuce, croutons, and Parmesan cheese tossed in Caesar dressing."
+  },
+  {
+    "id": 4,
+    "name": "BBQ Chicken Wings",
+    "price": 11.99,
+    "description": "Juicy chicken wings coated in tangy BBQ sauce and served with celery sticks."
+  },
+  {
+    "id": 5,
+    "name": "Vegetarian Burger",
+    "price": 10.49,
+    "description": "A flavorful vegetarian patty with lettuce, tomato, and avocado on a whole wheat bun."
+  },
+  {
+    "id": 6,
+    "name": "Spaghetti Carbonara",
+    "price": 12.99,
+    "description": "Classic Italian pasta with a creamy sauce made of eggs, cheese, pancetta, and pepper."
+  },
+  {
+    "id": 7,
+    "name": "Chicken Tenders",
+    "price": 8.99,
+    "description": "Breaded and fried chicken tenders served with a side of honey mustard dipping sauce."
+  },
+  {
+    "id": 8,
+    "name": "Marinated Steak",
+    "price": 15.99,
+    "description": "Grilled steak marinated in a blend of herbs and spices, served with a side of mashed potatoes."
+  },
+  {
+    "id": 9,
+    "name": "Lemon Sorbet",
+    "price": 5.99,
+    "description": "Refreshing lemon sorbet with a tangy flavor, perfect for a light dessert."
+  },
+  {
+    "id": 10,
+    "name": "Chocolate Cake",
+    "price": 6.49,
+    "description": "Rich and moist chocolate cake topped with a smooth chocolate ganache."
+  }
+]
